@@ -1,0 +1,10 @@
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\bin\Debug\loesoft.ico
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\bin\Debug\ARS.loe
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\bin\Debug\README.md
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\bin\Debug\Public ARS.exe
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\bin\Debug\Public ARS.pdb
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\obj\Debug\ARS.PublicARS.resources
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\obj\Debug\Properties.Resources.resources
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\obj\Debug\Public ARS.csproj.GenerateResource.Cache
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\obj\Debug\Public ARS.exe
+C:\Users\devwarlt\Pictures\LoESoft - Prod Project\Public ARS\Public ARS - Source\obj\Debug\Public ARS.pdb
